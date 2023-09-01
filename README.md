@@ -1,4 +1,4 @@
-# Amazon_Sales_India_Tableau_Dashboard📌
+# Amazon Sales India Tableau Dashboard💰
 <img width="250" alt="Coding" src="https://github.com/Mariyajoseph24/Amazon_Sales_India_Tableau_Dashboard/assets/91487663/510ffbad-c0f3-4d03-ba30-5b2b6bb8492c">
 
 <h1><a name="introduction">Introduction</a></h1>
@@ -19,9 +19,9 @@
 <h1><a name='dashboard'>Dashboard</a></h1>
 <img width="900" alt="Coding" src="https://github.com/Mariyajoseph24/Amazon_Sales_India_Tableau_Dashboard/blob/main/Amazon%20T%20Dashboard.png">
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
-<ul><li>Tool used: Power BI</li>
+<ul><li>Tool used: Tableau</li>
 <li> Data set used: <a href="https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?select=Amazon+Sale+Report.csv">
          <img src=" Amazon Sale India Dataset" alt=""> Amazon Sale India Dataset</a></li></ul>
 <p>The Amazon Sales India Tableau Dashboard Project leverages a wide array of visualizations, including bar charts, line charts, pie charts, tables, and more. Each visualization is carefully chosen to convey data insights effectively and enhance decision-making.</p>
 <h1><a name="conclusion">Conclusion</a></h1>
-<p>In a world where data-driven decision-making is the cornerstone of business success, the Superstore Power BI Dashboard Project is your compass to navigate the complex landscape of sales, profitability, and customer segments. By providing actionable insights into regional performance, profit trends, and customer segmentation, this project equips the Superstore Giant with the knowledge needed to chart a course toward greater profitability and sustained success. Welcome to the era of data-driven retail excellence, powered by the Superstore Power BI Dashboard.</p>
+<p>In an era where data-driven decisions are paramount, the Amazon Sales India Tableau Dashboard Project equips Amazon India with the tools to optimize product profitability, streamline operations, and enhance customer experiences. Whether it's analyzing sales trends, monitoring courier performance, or understanding regional variations, this project offers a holistic view of Amazon's sales operations in India. Welcome to the era of data-driven e-commerce excellence, powered by the Amazon Sales India Tableau Dashboard.</p>
